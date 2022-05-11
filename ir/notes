@@ -1,0 +1,16 @@
+- build_renewable_profiles debug (to complete workflow)
+
+- notions of country-node-cluster, specifically
+  countries in configuration
+  country in wildcards
+  clusters vs nodes
+  nodes assignment
+  country<cluster<node from docs
+
+- solve network rule and output data storage
+  also gdx-type preview?
+
+- logic of extendable_carries (why only ocgt/ccgt in docs)
+  and how it is connected to pallette from technology-data\outputs
+
+- tom 45 network
